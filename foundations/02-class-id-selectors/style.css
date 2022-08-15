@@ -1,0 +1,19 @@
+p.odd{
+    background-color: rgb(221, 123, 221);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#blue{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+p.odd.big{
+    font-size: 36px;
+}
+
+#green{
+    background-color: rgb(91, 207, 97);
+    font-size: 24px;
+    font-weight: bold;
+}
