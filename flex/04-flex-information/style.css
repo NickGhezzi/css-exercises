@@ -7,11 +7,28 @@ img {
   height: 100px;
 }
 
+.title, .content{
+  display: flex;
+  justify-content: center;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
 }
 
+.content{
+  justify-content: space-around;
+}
+.plant{
+  width: 250px;
+  margin: 34px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
